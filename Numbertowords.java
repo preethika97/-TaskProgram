@@ -27,7 +27,6 @@ import java.util.*;
 	                onesDigit = value / 10;
 	                System.out.print("Result: "+ tens[tensDigit] + " " + ones[onesDigit]);
 	                value = input.nextInt();
-
 	            } else{
 	                hundredsDigit = value / 100;//234/100=2
 	               tensDigit = (value% 100)/10;//234%100=34/10=3
