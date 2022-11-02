@@ -57,8 +57,7 @@ public class WeightedUniformStrings {
                System.out.println("Yes");
            } 
            else
-               
-           System.out.println("No");
+             System.out.println("No");
     }
 }
 }
