@@ -13,11 +13,11 @@ import java.util.*;
 public class PrintTheChar {
 
 	public static void main(String[] args) {
-		Scanner s = new Scanner(System.in);
-		System.out.println("enter the first String:");
-		String n = s.next();
-		System.out.println("enter the second string:");
-		String n1 = s.next();
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the first String:");
+		String n = sc.next();
+		System.out.println("Enter the second string:");
+		String n1 = sc.next();
 		String s1 = " ";
 		int len = 0, len1 = 0;
 		{
