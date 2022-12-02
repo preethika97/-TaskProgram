@@ -28,7 +28,7 @@ public class ArrayPower {
 		int arr[] = new int[n];
 		System.out.println("Enter the power: ");
 		int pow = sc.nextInt(), temp;  
-		System.out.println("Enter Elements");
+		System.out.println("Enter Elements : ");
 		for (int i = 0; i < n; i++) {
 			arr[i] = sc.nextInt();
 			int tempPow = pow; 
